@@ -86,7 +86,7 @@ In Python, a Dictionary can be created by placing a sequence of elements within 
 
 Here's how to declare Dictionary :
 ```
-  dicti = {"Key": "Value", "Key2": "Value2"}
+  dict = {"Key": "Value", "Key2": "Value2"}
 ```
 
 -----
