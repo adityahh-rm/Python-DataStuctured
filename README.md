@@ -1,6 +1,6 @@
 ## PYTHON DATA TYPE : DATA STRUCTURE
 -----
-There are 4 types of Data Structures in python, those is :
+There are 4 types of Data Structures in python, those are :
 1.  **List** 
 2.	**Tuple** 
 3.	**Set**
